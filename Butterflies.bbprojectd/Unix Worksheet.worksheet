@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CurrentWorkingDirectory</key>
+	<string>/Users/kaydell</string>
+	<key>WorksheetContents</key>
+	<string>/Users/kaydell/.bash_profile: line 11: [/Users/kaydell]: No such file or directory# Unix worksheet for the Butterflies case study project# I'm working on trying to get CSS to validate from the command-linejava -jar /Library/Java/Jars/css-validator.jar http://www.w3.org/ index.html# here's a Unix command to download the case study of the butterflies websitewget -r http://kaydell.us/kaydell_leavitt/portfolio/code/xhtmlwget -r http://pscode.org/sscce.html</string>
+</dict>
+</plist>

@@ -1,0 +1,11 @@
+Scratchpad for the Butterflies case study
+
+Here is how to specify a single CSS file for each web page in the site
+<link rel="stylesheet" type="text/css" href="butterflies.css">
+
+# here's a link to a site to download a Unix tool called wget that you can use to download
+# an entire website or a portion of a website.  Note that with this link, the download
+# will start immediately once you enter the URL.
+https://media.merenbach.com/static/software/wget-1.12-pkg.zip
+
+
